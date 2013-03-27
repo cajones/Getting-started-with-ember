@@ -1,0 +1,13 @@
+{
+  "name": "Getting Started with EmberJS",
+  "version": "0.0.1",
+  "description": "An example Ember + AMD project",
+  "dependencies": {
+  },
+  "jam": {
+    "packageDir": "lib/",
+    "dependencies": {
+      "ember": "1.0.02-jam.1"
+    }
+  }
+}
